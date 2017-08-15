@@ -1,0 +1,25 @@
+{
+  "name": "server-paleopal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "knex": "^0.13.0",
+    "pg": "^7.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoxMBaldwin/PaleoPal-Server.git"
+  },
+  "author": "Roxanne Baldwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RoxMBaldwin/PaleoPal-Server/issues"
+  },
+  "homepage": "https://github.com/RoxMBaldwin/PaleoPal-Server#readme"
+}
