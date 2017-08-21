@@ -1,7 +1,7 @@
 {
   "name": "server-paleopal",
   "version": "1.0.0",
-  "description": "",
+  "description": "your scientists were so preoccupied with whether or not they could that they didn't stop to think if they should",
   "main": "index.js",
   "dependencies": {
     "body-parser": "^1.17.2",
