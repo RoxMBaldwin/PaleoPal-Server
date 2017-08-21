@@ -1,6 +1,7 @@
 const express = require('express')
 const bodyParser = require('body-parser')
 const cors = require('cors')
+const routes = require('./routes/paleoPal_dinosaur.js')
 
 const app = express()
 const port = process.env.PORT || 3000
